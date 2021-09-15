@@ -1,0 +1,8 @@
+---
+applications:
+- name: pyApp
+  memory: 128MB
+  buildpacks: 
+    - python_buildpack
+  routes: 
+      - route: 91ccc175trial-pythonapp.cfapps.ap21.hana.ondemand.com 
