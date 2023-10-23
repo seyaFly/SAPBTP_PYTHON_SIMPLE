@@ -5,4 +5,4 @@ applications:
   buildpacks: 
     - python_buildpack
   routes: 
-      - route: 91ccc175trial-pythonapp.cfapps.ap21.hana.ondemand.com 
+      - route: cba1a2e5trial-pythonapp.cfapps.us10-001.hana.ondemand.com
